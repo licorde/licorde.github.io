@@ -6,7 +6,7 @@ comments: true
 sharing: true
 footer: true
 ---
-**Bienvenu dans la boîte à idées entrepreneuriales de Jérémie Hurtrel !**
+**Bienvenue dans la boîte à idées entrepreneuriales de Jérémie Hurtrel !**
 
 ## Qui
 
