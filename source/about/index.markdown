@@ -10,7 +10,7 @@ footer: true
 
 ## Qui
 
-Développeur au sein de SSIIs depuis des années , il est venu le temps de VIVRE et de poser mon droit de véto !
+Développeur au sein de SSIIs depuis des années , il est venu le temps de VIVRE et poser son droit de véto !
 
 > "Pourquoi ?" : me diriez vous.  
 > Je vous répondrais : "Le sentiment d'inachevé !"
