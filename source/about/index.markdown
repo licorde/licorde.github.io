@@ -8,24 +8,27 @@ footer: true
 ---
 **Bienvenue dans la boîte à idées entrepreneuriales de Jérémie Hurtrel !**
 
-## Qui ?
+## Qui
 
-Développeur depuis des années au sein de SSIIs, il est temps pour moi de vivre et de poser mon droit de véto !
+Développeur au sein de SSIIs depuis des années , il est venu le temps de VIVRE et de poser mon droit de véto !
 
-> *"Pour quoi ?" : me diriez vous.  
-> Je vous répondrais : *"Le sentiment d'inachevé !"*
+> "Pourquoi ?" : me diriez vous.  
+> Je vous répondrais : "Le sentiment d'inachevé !"
 
-Au lever comme au coucher, celui qui me taraude, laissant un goût de cendre dans la bouche !
+Du lever au coucher, il taraude sans cesse, laissant que cendres et amertumes sur son passage !
+Le Phénix, RENAISSANCE !
 
 ## Licorde
 
-Un projet entrepreneurial.
+Mon projet d’entreprenariat me libérant du carcan dans lequel j’ai choisi de m’enfouir si souvent.
 
-Ainsi, ce blog relatera les idées, pensées, démarches et résultats.
+## Ce Blog
+
+Une boucle d’idées, de démarches et résultats.
 
 ## Contact
 
-hello@licorde.net
+Friand d'échanges, avis et commentaires : hello@licorde.net
 
 
 
