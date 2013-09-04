@@ -6,7 +6,7 @@ comments: true
 sharing: true
 footer: true
 ---
-**Bienvenue dans la boîte à idées entrepreneuriales de Jérémie Hurtrel !**
+**Bienvenu dans la boîte à idées entrepreneuriales de Jérémie Hurtrel !**
 
 ## Qui
 
@@ -15,12 +15,12 @@ Développeur au sein de SSIIs depuis des années , il est venu le temps de VIVRE
 > "Pourquoi ?" : me diriez vous.  
 > Je vous répondrais : "Le sentiment d'inachevé !"
 
-Du lever au coucher, il taraude sans cesse, laissant que cendres et amertumes sur son passage !
-Le Phénix, RENAISSANCE !
+Du lever au coucher, il taraude sans cesse, laissant que cendres et amertumes sur son passage !  
+Un Phénix, une RENAISSANCE !
 
 ## Licorde
 
-Mon projet d’entreprenariat me libérant du carcan dans lequel j’ai choisi de m’enfouir si souvent.
+Mon projet d’entreprenariat ouvrant le carcan dans lequel j’ai choisi de m’enfouir si souvent.
 
 ## Ce Blog
 
