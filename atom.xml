@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Licorde,]]></title>
+  <link href="http://licorde.com/atom.xml" rel="self"/>
+  <link href="http://licorde.com/"/>
+  <updated>2013-09-04T13:17:13+02:00</updated>
+  <id>http://licorde.com/</id>
+  <author>
+    <name><![CDATA[Jérémie Hurtrel]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
