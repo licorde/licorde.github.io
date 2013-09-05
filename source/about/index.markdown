@@ -13,7 +13,7 @@ footer: true
 Développeur au sein de SSIIs depuis des années , il est venu le temps de "VIVRE" et poser son droit de véto !
 
 > "Pourquoi ?" : me diriez vous.  
-> Je vous répondrais : "Le sentiment d'inachevé !"
+> Je vous répondrais : "Le sentiment d'inachevé !"  
 > Du lever au coucher, il taraude sans cesse, laissant que cendres et amertumes sur son passage !  
 > Un Phénix, une RENAISSANCE !
 
